@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myreviewpick.github.io/sitemap.xml
