@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "베스트샵가이드"
+title                    : "리얼리뷰파인즈"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "bestshopguide"
-description              : "베스트 상품 추천 및 리뷰. 가전·생활용품·패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
+name                     : "realreviewfinds"
+description              : "진짜 리뷰로 찾는 베스트 상품. 가전·생활용품·패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
 
 # AliExpress back-button redirect (history.popstate hijack)
 # - true: enable redirect on browser back
 # - false: normal back button behavior
 aliexpress_back_redirect_enabled: false
-url                      : "https://bestshopguide.github.io"
+url                      : "https://realreviewfinds.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -118,9 +118,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "베스트샵가이드"
+  name             : "리얼리뷰파인즈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "베스트 상품을 깔끔하게 추천하는 쇼핑 블로그"
+  bio              : "진짜 리뷰로 찾는 베스트 상품 쇼핑 블로그"
   location         : "대한민국"
   email            :
   links:
